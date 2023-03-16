@@ -5,5 +5,6 @@ Professor: Alex Rodriguez
 Tutor: Ilaria Vascotto
 
 * [Introduction to Pandas](Notebooks/Lab0a-IntrotoPandas.ipynb) and [Data Preprocessing](Notebooks/Lab0b-DataPreprocessing.ipynb)
-* [Lab 1](Lab1.pdf): 
+* [Lab 1](Lab1.pdf): Data Generation and Visualization
+* Lab 2: Principal Component Analysis
 
