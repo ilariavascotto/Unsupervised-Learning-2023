@@ -1,4 +1,4 @@
-# Unsupervised-Learning-2023
+# Unsupervised Learning 2023
 This repository is dedicated to the lab activities of the course of Unsupervised Learning of the Master's degree in Data Science and Scientific Computing @UniTs
 
 Professor: Alex Rodriguez
