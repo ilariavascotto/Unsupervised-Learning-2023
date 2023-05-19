@@ -13,4 +13,5 @@ Tutor: Ilaria Vascotto
 * [Lab 5](Lab5.pdf): Recap on Dimensionality Reduction Techniques ([sol](Notebooks/Lab5-DimensionalityReduction.ipynb))
 * [Lab 6](Lab6.pdf): Intrinsic Dimension and Density Estimation ([sol](Notebooks/Lab6-IDandDensityEstimation.ipynb))
 * [Lab 7](Lab7.pdf): $k$-means ([sol](Notebooks/Lab7-kMeans.ipynb))
-* [Lab 8](Lab8.pdf): $k$-medoids and $c$-means
+* [Lab 8](Lab8.pdf): $k$-medoids and $c$-means ([sol](Notebooks/Lab8-kMedoids%26cMeans.ipynb.ipynb))
+* [Lab 9](Lab9.pdf): Hierarchical and Spectral Clustering
