@@ -14,4 +14,5 @@ Tutor: Ilaria Vascotto
 * [Lab 6](Lab6.pdf): Intrinsic Dimension and Density Estimation ([sol](Notebooks/Lab6-IDandDensityEstimation.ipynb))
 * [Lab 7](Lab7.pdf): $k$-means ([sol](Notebooks/Lab7-kMeans.ipynb))
 * [Lab 8](Lab8.pdf): $k$-medoids and $c$-means ([sol](Notebooks/Lab8-kMedoids%26cMeans.ipynb.ipynb))
-* [Lab 9](Lab9.pdf): Hierarchical and Spectral Clustering
+* [Lab 9](Lab9.pdf): Hierarchical and Spectral Clustering ([sol](Notebooks/Lab9-HierarchicalandSpectral.ipynb.ipynb))
+* [Lab 10](Lab10.pdf): Final Lab
